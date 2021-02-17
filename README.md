@@ -1,1 +1,1 @@
-# A brief notes of what is learned from various technical papers of IoT domain.
+# A brief note of what I have learned from various technical papers of the IoT domain.
